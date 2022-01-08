@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = iancuiv@gmail.com
+	name = Irina Iancu
